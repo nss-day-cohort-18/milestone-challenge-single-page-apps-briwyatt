@@ -5,7 +5,35 @@
       "model": "Rogue",
       "year": "2006",
       "price": "8999",
-      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+      "description": "This is an immaculate 2006 Nissan Rogue."
+    },
+    {
+        "make": "Toyota",
+        "model": "Prius",
+        "year": "2012",
+        "price": "9500",
+        "description": "This is an amazing 2012 Toyota Prius."
+    }, 
+    {
+        "make": "Lexus",
+        "model": "RX300",
+        "year": "2008",
+        "price": "12000",
+        "description": "This is a luxurious 2008 Lexus RX300."
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": "2010",
+        "price": "6000",
+        "description": "This is a top-rated 2010 Toyota Camry."
+     },
+    {
+        "make": "Ford",
+        "model": "Focus",
+        "year": "2009",
+        "price": "2500",
+        "description": "This is a self-indulgent 2009 Ford Focus."
     }
-  ]
+    ]
 }

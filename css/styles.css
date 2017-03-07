@@ -1,0 +1,17 @@
+.thumbnail {
+  border: 1px solid black;
+  background-color: #dcdcdc;
+}
+
+article {
+  height: 12em;
+}
+
+.gray { 
+  border-width: 5px;
+  background-color: gray;
+}
+
+.green {
+background-color: green;  
+}
